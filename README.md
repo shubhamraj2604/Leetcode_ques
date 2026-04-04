@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |
