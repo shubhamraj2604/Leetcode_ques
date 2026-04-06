@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
+| [0874-walking-robot-simulation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0874-walking-robot-simulation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
+| [0874-walking-robot-simulation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0874-walking-robot-simulation) |
 ## Union-Find
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String
