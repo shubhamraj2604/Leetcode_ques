@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
