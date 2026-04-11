@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0282-expression-add-operators) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0282-expression-add-operators) |
 | [0657-robot-return-to-origin](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0282-expression-add-operators) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
