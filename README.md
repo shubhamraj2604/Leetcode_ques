@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0282-expression-add-operators) |
 | [0657-robot-return-to-origin](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0657-robot-return-to-origin) |
 | [1392-longest-happy-prefix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1392-longest-happy-prefix) |
@@ -114,14 +115,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
