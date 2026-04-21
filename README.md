@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0118-pascals-triangle) |
 ## Divide and Conquer
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
