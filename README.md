@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2833-furthest-point-from-origin](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0135-candy) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
