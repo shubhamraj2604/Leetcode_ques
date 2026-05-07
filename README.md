@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0055-jump-game) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1861-rotating-the-box) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0118-pascals-triangle) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0503-next-greater-element-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
