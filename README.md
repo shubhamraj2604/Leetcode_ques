@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0135-candy) |
+| [0239-sliding-window-maximum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0503-next-greater-element-ii) |
 | [0874-walking-robot-simulation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0874-walking-robot-simulation) |
@@ -193,4 +194,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
