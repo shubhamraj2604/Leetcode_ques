@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0023-merge-k-sorted-lists) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
@@ -212,9 +213,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
