@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1861-rotating-the-box) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2104-sum-of-subarray-ranges) |
+| [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2965-find-missing-and-repeated-values) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2965-find-missing-and-repeated-values) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
