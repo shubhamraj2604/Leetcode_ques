@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
@@ -259,11 +261,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
