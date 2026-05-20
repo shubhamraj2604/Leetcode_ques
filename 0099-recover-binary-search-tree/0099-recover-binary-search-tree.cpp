@@ -11,29 +11,48 @@
  */
 class Solution {
 public:
-    vector<int>ans;
-    void inorder(TreeNode* root){
+    // vector<int>ans;
+    // void inorder(TreeNode* root){
+    //     if(!root)return;
+
+    //     inorder(root->left);
+    //     ans.push_back(root->val);
+    //     inorder(root->right);
+    // }
+
+    TreeNode* first = nullptr;
+    TreeNode* second = nullptr;
+    TreeNode* prev = nullptr;
+    // void traversal(TreeNode* root , vector<int>&ans , int &index){
+    //     if(!root)return;
+
+    //     traversal(root->left , ans , index);
+    //     if(root->val != ans[index]){
+    //         root->val = ans[index];
+    //     }
+    //     index++;
+    //     traversal(root->right , ans , index);
+    // }
+
+       void traversal(TreeNode* root){
         if(!root)return;
-
-        inorder(root->left);
-        ans.push_back(root->val);
-        inorder(root->right);
-    }
-
-    void traversal(TreeNode* root , vector<int>&ans , int &index){
-        if(!root)return;
-
-        traversal(root->left , ans , index);
-        if(root->val != ans[index]){
-            root->val = ans[index];
+        traversal(root->left);
+        if(prev && prev->val > root->val){
+            if(!first){
+                first = prev;
+            }
+            second = root;
         }
-        index++;
-        traversal(root->right , ans , index);
+        prev = root;
+        traversal(root->right);
     }
     void recoverTree(TreeNode* root) {
-          inorder(root);
-          sort(ans.begin(), ans.end());
-          int index = 0;
-          traversal(root , ans , index);
+        //   inorder(root);
+        //   sort(ans.begin(), ans.end());
+        //   int index = 0;
+        //   traversal(root , ans , index);
+        traversal(root);
+
+        swap(first->val , second->val);
     }
 };
