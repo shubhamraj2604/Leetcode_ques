@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0054-spiral-matrix) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
 ## Greedy
