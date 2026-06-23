@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2104-sum-of-subarray-ranges) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2104-sum-of-subarray-ranges) |
 ## Breadth-First Search
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0173-binary-search-tree-iterator) |
+| [0901-online-stock-span](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0901-online-stock-span) |
 ## Iterator
 |  |
 | ------- |
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1833-maximum-ice-cream-bars) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
