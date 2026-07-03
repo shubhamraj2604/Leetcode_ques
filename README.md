@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3612-process-string-with-special-operations-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3612-process-string-with-special-operations-i) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Counting
 |  |
 | ------- |
