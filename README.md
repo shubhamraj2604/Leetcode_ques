@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1861-rotating-the-box) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2784-check-if-array-is-good) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3546-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
