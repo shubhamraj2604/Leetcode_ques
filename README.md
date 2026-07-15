@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2965-find-missing-and-repeated-values) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3783-mirror-distance-of-an-integer) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
 | ------- |
