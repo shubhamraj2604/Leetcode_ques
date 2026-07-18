@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2784-check-if-array-is-good) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0282-expression-add-operators](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0368-largest-divisible-subset) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2965-find-missing-and-repeated-values) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
