@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1345-jump-game-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0968-binary-tree-cameras](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0968-binary-tree-cameras) |
+| [3310-remove-methods-from-project](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
