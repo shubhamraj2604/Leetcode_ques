@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1048-longest-string-chain) |
 | [1301-number-of-paths-with-max-score](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1301-number-of-paths-with-max-score) |
 | [1345-jump-game-iv](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1345-jump-game-iv) |
 | [1406-stone-game-iii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1406-stone-game-iii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0874-walking-robot-simulation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1048-longest-string-chain) |
 | [1345-jump-game-iv](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0368-largest-divisible-subset) |
 | [0846-hand-of-straights](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0846-hand-of-straights) |
+| [1048-longest-string-chain](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1048-longest-string-chain) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0214-shortest-palindrome) |
 | [0282-expression-add-operators](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0282-expression-add-operators) |
 | [0657-robot-return-to-origin](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0657-robot-return-to-origin) |
+| [1048-longest-string-chain](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -207,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [0968-binary-tree-cameras](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0968-binary-tree-cameras) |
+| [1048-longest-string-chain](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1048-longest-string-chain) |
 | [1301-number-of-paths-with-max-score](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1871-jump-game-vii) |
