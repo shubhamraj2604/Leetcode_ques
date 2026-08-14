@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
+| [2905-find-indices-with-index-and-value-difference-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 ## Math
 |  |
 | ------- |
