@@ -5,9 +5,9 @@ public:
         for (auto &c : reservedSeats) {
             m[c[0]].insert(c[1]);
         }
-        int ans = 2 * n;
+        int l1 = n - m.size();
+        int ans = 0;
         for (auto &[row, seats] : m) {
-            ans -= 2;
             bool left = true;   
             bool mid = true;    
             bool right = true;  
@@ -29,7 +29,7 @@ public:
                 ans += 1;
             }
         }
-
-        return ans;
+        int l = l1 * 2;
+        return ans + l;
     }
 };
