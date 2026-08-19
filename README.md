@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1301-number-of-paths-with-max-score) |
 | [1345-jump-game-iv](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1833-maximum-ice-cream-bars) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1048-longest-string-chain) |
 | [1345-jump-game-iv](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1386-cinema-seat-allocation) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0135-candy) |
 | [0846-hand-of-straights](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0846-hand-of-straights) |
+| [1386-cinema-seat-allocation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
