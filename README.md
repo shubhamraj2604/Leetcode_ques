@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0118-pascals-triangle) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0063-unique-paths-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1861-rotating-the-box) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0124-binary-tree-maximum-path-sum) |
