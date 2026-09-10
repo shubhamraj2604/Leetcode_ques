@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0968-binary-tree-cameras](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0968-binary-tree-cameras) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0968-binary-tree-cameras](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0968-binary-tree-cameras) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0968-binary-tree-cameras](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0968-binary-tree-cameras) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
