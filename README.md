@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2487-remove-nodes-from-linked-list) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2487-remove-nodes-from-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0023-merge-k-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -482,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1406-stone-game-iii) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
