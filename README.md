@@ -501,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2487-remove-nodes-from-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
