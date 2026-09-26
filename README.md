@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2540-minimum-common-value](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1871-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2287-rearrange-characters-to-make-target-string) |
