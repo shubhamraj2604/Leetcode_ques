@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0657-robot-return-to-origin) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1392-longest-happy-prefix) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2487-remove-nodes-from-linked-list) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
