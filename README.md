@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3660-jump-game-ix) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Counting
 |  |
