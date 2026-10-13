@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0877-stone-game) |
+| [0890-find-and-replace-pattern](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0890-find-and-replace-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0907-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1140-stone-game-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0874-walking-robot-simulation) |
+| [0890-find-and-replace-pattern](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0890-find-and-replace-pattern) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1048-longest-string-chain) |
 | [1345-jump-game-iv](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1345-jump-game-iv) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0657-robot-return-to-origin) |
+| [0890-find-and-replace-pattern](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/shubhamraj2604/Leetcode_ques/tree/master/1048-longest-string-chain) |
